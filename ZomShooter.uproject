@@ -1,16 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.18",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "ZomShooter",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cc32f51e1d1357a28589942105285858a98fcfe57d05f0ff4d689fdbaa35be5
+size 255
